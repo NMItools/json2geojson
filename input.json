@@ -1,173 +1,31 @@
 [
 	{
-		"Type" : "AD_letiste",
-		"Creation_date" : "2022-08-02T090822",
-		"Valid_from" : "2022-09-08T000000",
+		"Type" : "SLZ",
+		"Creation_date" : "2023-04-14T115700",
+		"Valid_from" : "2023-05-18T000000",
 		"Data" : {
 			"Object" : [
 				{
-					"Identification" : "LKBA",
-					"Name" : "BRECLAV",
-					"Elevation_FT" : "525",
-					"Elevation_M" : "160",
-					"Geo_lat" : "484727N",
-					"Geo_long" : "0165333E",
-					"Runway_detail" : [
-						{
-							"Runway" : "08/26",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKBE",
-					"Name" : "BENESOV",
-					"Elevation_FT" : "1322",
-					"Elevation_M" : "403",
-					"Geo_lat" : "494427N",
-					"Geo_long" : "0143841E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "09R/27L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "09L/27R",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKBO",
-					"Name" : "BOHUNOVICE",
-					"Elevation_FT" : "774",
-					"Elevation_M" : "236",
-					"Geo_lat" : "494014N",
-					"Geo_long" : "0171742E",
-					"Runway_detail" : [
-						{
-							"Runway" : "07/25",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKBR",
-					"Name" : "BROUMOV",
-					"Elevation_FT" : "1342",
-					"Elevation_M" : "409",
-					"Geo_lat" : "503343N",
-					"Geo_long" : "0162034E",
-					"Runway_detail" : [
-						{
-							"Runway" : "14/32",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKBU",
-					"Name" : "BUBOVICE",
-					"Elevation_FT" : "1398",
-					"Elevation_M" : "426",
-					"Geo_lat" : "495828N",
-					"Geo_long" : "0141041E",
-					"Runway_detail" : [
-						{
-							"Runway" : "10L/28R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "10R/28L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKCB",
-					"Name" : "CHEB",
-					"Elevation_FT" : "1585",
-					"Elevation_M" : "483",
-					"Geo_lat" : "500359.08N",
-					"Geo_long" : "0122446.35E",
-					"Runway_detail" : [
-						{
-							"Runway" : "05/23",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "06/24",
-							"Surface" : "CONC"
-						}
-					]
-				},
-				{
-					"Identification" : "LKCE",
-					"Name" : "CESKA LIPA",
-					"Elevation_FT" : "929",
-					"Elevation_M" : "283",
-					"Geo_lat" : "504234N",
-					"Geo_long" : "0143400E",
-					"Runway_detail" : [
-						{
-							"Runway" : "13/31",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKCM",
-					"Name" : "MEDLANKY",
-					"Elevation_FT" : "925",
-					"Elevation_M" : "282",
-					"Geo_lat" : "491413N",
-					"Geo_long" : "0163319E",
-					"Runway_detail" : [
-						{
-							"Runway" : "16/34",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKCR",
-					"Name" : "CHRUDIM",
-					"Elevation_FT" : "978",
-					"Elevation_M" : "298",
-					"Geo_lat" : "495611N",
-					"Geo_long" : "0154650E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKCS",
-					"Name" : "CESKE BUDEJOVICE",
-					"Elevation_FT" : "1417",
-					"Elevation_M" : "432",
-					"Geo_lat" : "485647N",
-					"Geo_long" : "0142539E",
+					"Identification" : "LKBOLE",
+					"Name" : "BOLERADICE",
+					"Elevation_FT" : "650",
+					"Elevation_M" : "198",
+					"Geo_lat" : "485743.00N",
+					"Geo_long" : "0164954.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "09/27",
-							"Surface" : "CONC"
+							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKCT",
-					"Name" : "CHOTEBOR",
-					"Elevation_FT" : "1946",
-					"Elevation_M" : "593",
-					"Geo_lat" : "494109N",
-					"Geo_long" : "0154034E",
+					"Identification" : "LKBORE",
+					"Name" : "BOREK",
+					"Elevation_FT" : "557",
+					"Elevation_M" : "170",
+					"Geo_lat" : "501239.00N",
+					"Geo_long" : "0143927.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "17/35",
@@ -176,90 +34,26 @@
 					]
 				},
 				{
-					"Identification" : "LKCV",
-					"Name" : "CASLAV",
-					"Elevation_FT" : "793.5",
-					"Elevation_M" : "241,9",
-					"Geo_lat" : "495622.43N",
-					"Geo_long" : "0152254.96E",
+					"Identification" : "LKBRTO",
+					"Name" : "BRTOV",
+					"Elevation_FT" : "1610",
+					"Elevation_M" : "491",
+					"Geo_lat" : "492439.27N",
+					"Geo_long" : "0162958.09E",
 					"Runway_detail" : [
 						{
-							"Runway" : "13/31",
-							"Surface" : "CONC"
-						},
-						{
-							"Runway" : "12/30",
+							"Runway" : "10/28",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKDK",
-					"Name" : "DVUR KRALOVE",
-					"Elevation_FT" : "925",
-					"Elevation_M" : "282",
-					"Geo_lat" : "502451N",
-					"Geo_long" : "0155013E",
-					"Runway_detail" : [
-						{
-							"Runway" : "10L/28R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "10R/28L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKER",
-					"Name" : "ERPUZICE",
-					"Elevation_FT" : "1568",
-					"Elevation_M" : "478",
-					"Geo_lat" : "494810N",
-					"Geo_long" : "0130217E",
-					"Runway_detail" : [
-						{
-							"Runway" : "11/29",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKFR",
-					"Name" : "FRYDLANT",
-					"Elevation_FT" : "1440",
-					"Elevation_M" : "439",
-					"Geo_lat" : "493522N",
-					"Geo_long" : "0182245E",
-					"Runway_detail" : [
-						{
-							"Runway" : "08/26",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKHB",
-					"Name" : "HAVLICKUV BROD",
-					"Elevation_FT" : "1519",
-					"Elevation_M" : "463",
-					"Geo_lat" : "493550N",
-					"Geo_long" : "0153257E",
-					"Runway_detail" : [
-						{
-							"Runway" : "11/29",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKHC",
-					"Name" : "HORICE",
-					"Elevation_FT" : "917",
-					"Elevation_M" : "280",
-					"Geo_lat" : "502124N",
-					"Geo_long" : "0153438E",
+					"Identification" : "LKBUD",
+					"Name" : "BUDKOVICE",
+					"Elevation_FT" : "870",
+					"Elevation_M" : "265",
+					"Geo_lat" : "490443.16N",
+					"Geo_long" : "0162121.06E",
 					"Runway_detail" : [
 						{
 							"Runway" : "12/30",
@@ -268,12 +62,142 @@
 					]
 				},
 				{
-					"Identification" : "LKHD",
-					"Name" : "HODKOVICE",
-					"Elevation_FT" : "1480",
-					"Elevation_M" : "451",
-					"Geo_lat" : "503926N",
-					"Geo_long" : "0150440E",
+					"Identification" : "LKBYNO",
+					"Name" : "BYNOVEC",
+					"Elevation_FT" : "1266",
+					"Elevation_M" : "386",
+					"Geo_lat" : "504919.00N",
+					"Geo_long" : "0141617.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "07/25",
+							"Surface" : "GRASS"
+						},
+						{
+							"Runway" : "17/35",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKBYST",
+					"Name" : "BYSTRICE NAD PERNSTEJNEM",
+					"Elevation_FT" : "1942",
+					"Elevation_M" : "592",
+					"Geo_lat" : "493122.00N",
+					"Geo_long" : "0161356.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "16/34",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKCAST",
+					"Name" : "CASTKOVICE",
+					"Elevation_FT" : "1925",
+					"Elevation_M" : "587",
+					"Geo_lat" : "492433.00N",
+					"Geo_long" : "0150839.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "10/28",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKCEBI",
+					"Name" : "CEBIN",
+					"Elevation_FT" : "1004",
+					"Elevation_M" : "306",
+					"Geo_lat" : "491907.637N",
+					"Geo_long" : "0162948.464E",
+					"Runway_detail" : [
+						{
+							"Runway" : "15/33",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKDETR",
+					"Name" : "DETRICHOV OAZA",
+					"Elevation_FT" : "751",
+					"Elevation_M" : "229",
+					"Geo_lat" : "494345.00N",
+					"Geo_long" : "0170705.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "14/32",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKDOUD",
+					"Name" : "DOUDLEBY",
+					"Elevation_FT" : "1541",
+					"Elevation_M" : "470",
+					"Geo_lat" : "485306.00N",
+					"Geo_long" : "0142911.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "07/25",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKDRUZ",
+					"Name" : "DRUZCOV U LIPY",
+					"Elevation_FT" : "1509",
+					"Elevation_M" : "460",
+					"Geo_lat" : "504341.00N",
+					"Geo_long" : "0145529.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "17/35",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKDUSN",
+					"Name" : "DUSNIKY",
+					"Elevation_FT" : "728",
+					"Elevation_M" : "222",
+					"Geo_lat" : "502446.00N",
+					"Geo_long" : "0141153.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "17/35",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKEXCA",
+					"Name" : "HATE EXCALIBUR",
+					"Elevation_FT" : "777",
+					"Elevation_M" : "237",
+					"Geo_lat" : "484542.00N",
+					"Geo_long" : "0160319.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "12/30",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKHATH",
+					"Name" : "HAT U HLUCINA",
+					"Elevation_FT" : "774",
+					"Elevation_M" : "236",
+					"Geo_lat" : "495700.00N",
+					"Geo_long" : "0181553.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "01/19",
@@ -282,513 +206,47 @@
 					]
 				},
 				{
-					"Identification" : "LKHK",
-					"Name" : "HRADEC KRALOVE",
-					"Elevation_FT" : "791",
-					"Elevation_M" : "241",
-					"Geo_lat" : "501512N",
-					"Geo_long" : "0155043E",
+					"Identification" : "LKHLAS",
+					"Name" : "HLASKA",
+					"Elevation_FT" : "1430",
+					"Elevation_M" : "436",
+					"Geo_lat" : "490401.00N",
+					"Geo_long" : "0141429.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "15R/33L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "15L/33R",
-							"Surface" : "CONC"
-						}
-					]
-				},
-				{
-					"Identification" : "LKHN",
-					"Name" : "HRANICE",
-					"Elevation_FT" : "797",
-					"Elevation_M" : "243",
-					"Geo_lat" : "493246N",
-					"Geo_long" : "0174216E",
-					"Runway_detail" : [
-						{
-							"Runway" : "05/23",
+							"Runway" : "08/26",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKHS",
-					"Name" : "HOSIN",
-					"Elevation_FT" : "1621",
-					"Elevation_M" : "494",
-					"Geo_lat" : "490224N",
-					"Geo_long" : "0142942E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06R/24L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "06L/24R",
-							"Surface" : "ASPH"
-						}
-					]
-				},
-				{
-					"Identification" : "LKHV",
-					"Name" : "HOROVICE",
-					"Elevation_FT" : "1214",
-					"Elevation_M" : "370",
-					"Geo_lat" : "495041N",
-					"Geo_long" : "0135309E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
-							"Surface" : "ASPH"
-						}
-					]
-				},
-				{
-					"Identification" : "LKCH",
-					"Name" : "CHOMUTOV",
-					"Elevation_FT" : "1132",
-					"Elevation_M" : "345",
-					"Geo_lat" : "502808N",
-					"Geo_long" : "0132805E",
-					"Runway_detail" : [
-						{
-							"Runway" : "04/22",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "14/32",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKJA",
-					"Name" : "JAROMER",
-					"Elevation_FT" : "891",
-					"Elevation_M" : "271",
-					"Geo_lat" : "501953N",
-					"Geo_long" : "0155714E",
-					"Runway_detail" : [
-						{
-							"Runway" : "14/32",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKJC",
-					"Name" : "JICIN",
-					"Elevation_FT" : "863",
-					"Elevation_M" : "263",
-					"Geo_lat" : "502548N",
-					"Geo_long" : "0151959E",
-					"Runway_detail" : [
-						{
-							"Runway" : "12/30",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKJH",
-					"Name" : "JINDRICHUV HRADEC",
-					"Elevation_FT" : "1683",
-					"Elevation_M" : "513",
-					"Geo_lat" : "490903N",
-					"Geo_long" : "0145818E",
-					"Runway_detail" : [
-						{
-							"Runway" : "07R/25L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "07L/25R",
-							"Surface" : "CONC+ASPH"
-						}
-					]
-				},
-				{
-					"Identification" : "LKJI",
-					"Name" : "JIHLAVA",
-					"Elevation_FT" : "1821",
-					"Elevation_M" : "555",
-					"Geo_lat" : "492511N",
-					"Geo_long" : "0153808E",
-					"Runway_detail" : [
-						{
-							"Runway" : "10/28",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKA",
-					"Name" : "KRIZANOV",
-					"Elevation_FT" : "1834",
-					"Elevation_M" : "559",
-					"Geo_lat" : "492206N",
-					"Geo_long" : "0160658E",
-					"Runway_detail" : [
-						{
-							"Runway" : "13/31",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKB",
-					"Name" : "KBELY",
-					"Elevation_FT" : "939",
-					"Elevation_M" : "286",
-					"Geo_lat" : "500716.92N",
-					"Geo_long" : "0143237.10E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
-							"Surface" : "ASPH"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKL",
-					"Name" : "KLADNO",
-					"Elevation_FT" : "1419",
-					"Elevation_M" : "433",
-					"Geo_lat" : "500646N",
-					"Geo_long" : "0140523E",
-					"Runway_detail" : [
-						{
-							"Runway" : "12/30",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKM",
-					"Name" : "KROMERIZ",
-					"Elevation_FT" : "617",
-					"Elevation_M" : "188",
-					"Geo_lat" : "491708N",
-					"Geo_long" : "0172457E",
-					"Runway_detail" : [
-						{
-							"Runway" : "02/20",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKO",
-					"Name" : "KOLIN",
-					"Elevation_FT" : "925",
-					"Elevation_M" : "282",
-					"Geo_lat" : "500007N",
-					"Geo_long" : "0151024E",
-					"Runway_detail" : [
-						{
-							"Runway" : "03L/21R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "03R/21L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKR",
-					"Name" : "KRNOV",
-					"Elevation_FT" : "1204",
-					"Elevation_M" : "367",
-					"Geo_lat" : "500428N",
-					"Geo_long" : "0174143E",
-					"Runway_detail" : [
-						{
-							"Runway" : "12/30",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKT",
-					"Name" : "KLATOVY",
-					"Elevation_FT" : "1299",
-					"Elevation_M" : "396",
-					"Geo_lat" : "492506N",
-					"Geo_long" : "0131919E",
-					"Runway_detail" : [
-						{
-							"Runway" : "09L/27R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "09R/27L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKU",
-					"Name" : "KUNOVICE",
-					"Elevation_FT" : "581",
-					"Elevation_M" : "177",
-					"Geo_lat" : "490146N",
-					"Geo_long" : "0172623E",
-					"Runway_detail" : [
-						{
-							"Runway" : "02C/20C",
-							"Surface" : "CONC"
-						},
-						{
-							"Runway" : "02R/20L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "02L/20R",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKV",
-					"Name" : "KARLOVY VARY",
-					"Elevation_FT" : "1989",
-					"Elevation_M" : "606",
-					"Geo_lat" : "501211N",
-					"Geo_long" : "0125454E",
-					"Runway_detail" : [
-						{
-							"Runway" : "11/29",
-							"Surface" : "CONC+ASPH"
-						},
-						{
-							"Runway" : "12/30",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKKY",
-					"Name" : "KYJOV",
-					"Elevation_FT" : "686",
-					"Elevation_M" : "209",
-					"Geo_lat" : "485848N",
-					"Geo_long" : "0170729E",
-					"Runway_detail" : [
-						{
-							"Runway" : "15/33",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKLB",
-					"Name" : "LIBEREC",
-					"Elevation_FT" : "1329",
-					"Elevation_M" : "405",
-					"Geo_lat" : "504606N",
-					"Geo_long" : "0150130E",
-					"Runway_detail" : [
-						{
-							"Runway" : "16/34",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKLN",
-					"Name" : "PLZEN/LINE",
-					"Elevation_FT" : "1188",
-					"Elevation_M" : "362",
-					"Geo_lat" : "494031N",
-					"Geo_long" : "0131628E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
-							"Surface" : "CONC"
-						}
-					]
-				},
-				{
-					"Identification" : "LKLT",
-					"Name" : "LETNANY",
+					"Identification" : "LKHRAD",
+					"Name" : "HRADCANY",
 					"Elevation_FT" : "912",
 					"Elevation_M" : "278",
-					"Geo_lat" : "500753N",
-					"Geo_long" : "0143132E",
+					"Geo_lat" : "503710.00N",
+					"Geo_long" : "0144358.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "05L/23R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "05R/23L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKLU",
-					"Name" : "LUHACOVICE",
-					"Elevation_FT" : "1127",
-					"Elevation_M" : "344",
-					"Geo_lat" : "490532N",
-					"Geo_long" : "0174329E",
-					"Runway_detail" : [
-						{
-							"Runway" : "02/20",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKMB",
-					"Name" : "MLADA BOLESLAV",
-					"Elevation_FT" : "765",
-					"Elevation_M" : "233",
-					"Geo_lat" : "502354N",
-					"Geo_long" : "0145354E",
-					"Runway_detail" : [
-						{
-							"Runway" : "04L/22R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "16L/34R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "04R/22L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "16R/34L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKMH",
-					"Name" : "MNICHOVO HRADISTE",
-					"Elevation_FT" : "801",
-					"Elevation_M" : "244",
-					"Geo_lat" : "503224N",
-					"Geo_long" : "0150024E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
+							"Runway" : "09L/27R",
 							"Surface" : "CONC"
 						},
 						{
-							"Runway" : "05/23",
+							"Runway" : "09R/27L",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKMI",
-					"Name" : "MIKULOVICE",
-					"Elevation_FT" : "1375",
-					"Elevation_M" : "419",
-					"Geo_lat" : "501806N",
-					"Geo_long" : "0171751E",
+					"Identification" : "LKCHAR",
+					"Name" : "CHARVATCE",
+					"Elevation_FT" : "922",
+					"Elevation_M" : "281",
+					"Geo_lat" : "502600.85N",
+					"Geo_long" : "0134838.82E",
 					"Runway_detail" : [
 						{
-							"Runway" : "05/23",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKMK",
-					"Name" : "MORAVSKA TREBOVA",
-					"Elevation_FT" : "1322",
-					"Elevation_M" : "403",
-					"Geo_lat" : "494754N",
-					"Geo_long" : "0164116E",
-					"Runway_detail" : [
-						{
-							"Runway" : "08R/26L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "08L/26R",
-							"Surface" : "ASPH"
-						}
-					]
-				},
-				{
-					"Identification" : "LKMO",
-					"Name" : "MOST",
-					"Elevation_FT" : "1086",
-					"Elevation_M" : "331",
-					"Geo_lat" : "503130N",
-					"Geo_long" : "0134059E",
-					"Runway_detail" : [
-						{
-							"Runway" : "02L/20R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "02R/20L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKMR",
-					"Name" : "MARIANSKE LAZNE",
-					"Elevation_FT" : "1768",
-					"Elevation_M" : "539",
-					"Geo_lat" : "495522N",
-					"Geo_long" : "0124329E",
-					"Runway_detail" : [
-						{
-							"Runway" : "15/33",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKMT",
-					"Name" : "OSTRAVA/MOSNOV",
-					"Elevation_FT" : "844",
-					"Elevation_M" : "257",
-					"Geo_lat" : "494146N",
-					"Geo_long" : "0180639E",
-					"Runway_detail" : [
-						{
-							"Runway" : "04/22",
-							"Surface" : "CONC"
-						}
-					]
-				},
-				{
-					"Identification" : "LKNA",
-					"Name" : "NAMEST",
-					"Elevation_FT" : "1547",
-					"Elevation_M" : "471.5",
-					"Geo_lat" : "490958.35N",
-					"Geo_long" : "0160727.78E",
-					"Runway_detail" : [
-						{
-							"Runway" : "12/30",
-							"Surface" : "CONC"
-						}
-					]
-				},
-				{
-					"Identification" : "LKNM",
-					"Name" : "NOVE MESTO",
-					"Elevation_FT" : "1001",
-					"Elevation_M" : "305",
-					"Geo_lat" : "502151N",
-					"Geo_long" : "0160649E",
-					"Runway_detail" : [
-						{
-							"Runway" : "18/36",
+							"Runway" : "07/25",
 							"Surface" : "GRASS"
 						},
 						{
@@ -798,21 +256,69 @@
 					]
 				},
 				{
-					"Identification" : "LKOL",
-					"Name" : "OLOMOUC",
-					"Elevation_FT" : "869",
-					"Elevation_M" : "265",
-					"Geo_lat" : "493514N",
-					"Geo_long" : "0171236E",
+					"Identification" : "LKCHOC",
+					"Name" : "CHOCEN",
+					"Elevation_FT" : "866",
+					"Elevation_M" : "264",
+					"Geo_lat" : "495839.00N",
+					"Geo_long" : "0161107.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "09L/27R",
+							"Runway" : "15/33",
 							"Surface" : "GRASS"
-						},
+						}
+					]
+				},
+				{
+					"Identification" : "LKCHOR",
+					"Name" : "CHORNICE",
+					"Elevation_FT" : "1129",
+					"Elevation_M" : "344",
+					"Geo_lat" : "494108.00N",
+					"Geo_long" : "0164353.00E",
+					"Runway_detail" : [
 						{
-							"Runway" : "09R/27L",
+							"Runway" : "01/28",
 							"Surface" : "GRASS"
-						},
+						}
+					]
+				},
+				{
+					"Identification" : "LKCHOT",
+					"Name" : "CHOTEC",
+					"Elevation_FT" : "1076",
+					"Elevation_M" : "328",
+					"Geo_lat" : "502602.00N",
+					"Geo_long" : "0153150.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "09/27",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKCHOV",
+					"Name" : "CHOTESOV",
+					"Elevation_FT" : "1207",
+					"Elevation_M" : "368",
+					"Geo_lat" : "493906.00N",
+					"Geo_long" : "0131123.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "09/27",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKCHRA",
+					"Name" : "CHRASTANY",
+					"Elevation_FT" : "879",
+					"Elevation_M" : "268",
+					"Geo_lat" : "500331.28N",
+					"Geo_long" : "0145523.42E",
+					"Runway_detail" : [
 						{
 							"Runway" : "10/28",
 							"Surface" : "ASPH"
@@ -820,54 +326,54 @@
 					]
 				},
 				{
-					"Identification" : "LKPA",
-					"Name" : "POLICKA",
-					"Elevation_FT" : "1978",
-					"Elevation_M" : "603",
-					"Geo_lat" : "494422N",
-					"Geo_long" : "0161532E",
+					"Identification" : "LKCHRI",
+					"Name" : "CHRIBSKA",
+					"Elevation_FT" : "1256",
+					"Elevation_M" : "383",
+					"Geo_lat" : "505129.00N",
+					"Geo_long" : "0142801.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "15/33",
+							"Runway" : "10/28",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKPC",
-					"Name" : "PANENSKY TYNEC",
-					"Elevation_FT" : "1207",
-					"Elevation_M" : "368",
-					"Geo_lat" : "501823N",
-					"Geo_long" : "0135606E",
+					"Identification" : "LKCHVO",
+					"Name" : "CHVOJENEC",
+					"Elevation_FT" : "793",
+					"Elevation_M" : "242",
+					"Geo_lat" : "500631.00N",
+					"Geo_long" : "0155538.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "09/27",
-							"Surface" : "CONC+ASPH"
+							"Runway" : "18/36",
+							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKPD",
-					"Name" : "PARDUBICE",
-					"Elevation_FT" : "741",
-					"Elevation_M" : "226",
-					"Geo_lat" : "500048N",
-					"Geo_long" : "0154419E",
+					"Identification" : "LKJIRI",
+					"Name" : "KRELOVICE - JIRICKY",
+					"Elevation_FT" : "1683",
+					"Elevation_M" : "513",
+					"Geo_lat" : "493308.00N",
+					"Geo_long" : "0150920.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "09/27",
-							"Surface" : "CONC"
+							"Runway" : "16/34",
+							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKPI",
-					"Name" : "PRIBYSLAV",
-					"Elevation_FT" : "1742",
-					"Elevation_M" : "531",
-					"Geo_lat" : "493451N",
-					"Geo_long" : "0154546E",
+					"Identification" : "LKKAPL",
+					"Name" : "KAPLICE",
+					"Elevation_FT" : "2100",
+					"Elevation_M" : "640",
+					"Geo_lat" : "484307.8N",
+					"Geo_long" : "0142701.1E",
 					"Runway_detail" : [
 						{
 							"Runway" : "08/26",
@@ -876,135 +382,55 @@
 					]
 				},
 				{
-					"Identification" : "LKPJ",
-					"Name" : "PROSTEJOV",
-					"Elevation_FT" : "702",
-					"Elevation_M" : "214",
-					"Geo_lat" : "492652N",
-					"Geo_long" : "0170802E",
+					"Identification" : "LKKEJZ",
+					"Name" : "KEJZLICE",
+					"Elevation_FT" : "1594",
+					"Elevation_M" : "486",
+					"Geo_lat" : "493532.00N",
+					"Geo_long" : "0152405.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "12/30",
+							"Runway" : "17/35",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKPL",
-					"Name" : "LETKOV",
-					"Elevation_FT" : "1374",
-					"Elevation_M" : "419",
-					"Geo_lat" : "494323N",
-					"Geo_long" : "0132708E",
+					"Identification" : "LKKOST",
+					"Name" : "KOSTOMLATY",
+					"Elevation_FT" : "700",
+					"Elevation_M" : "213",
+					"Geo_lat" : "501229.00N",
+					"Geo_long" : "0145543.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "08L/26R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "08R/26L",
+							"Runway" : "01/28",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKPM",
-					"Name" : "PRIBRAM",
-					"Elevation_FT" : "1529",
-					"Elevation_M" : "466",
-					"Geo_lat" : "494312N",
-					"Geo_long" : "0140601E",
+					"Identification" : "LKKOTV",
+					"Name" : "KOTVRDOVICE",
+					"Elevation_FT" : "1860",
+					"Elevation_M" : "567",
+					"Geo_lat" : "492151.00N",
+					"Geo_long" : "0164703.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "06R/24L",
-							"Surface" : "ASPH"
-						},
-						{
-							"Runway" : "06L/24R",
+							"Runway" : "10/28",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKPN",
-					"Name" : "PODHORANY",
-					"Elevation_FT" : "1250",
-					"Elevation_M" : "381",
-					"Geo_lat" : "495621N",
-					"Geo_long" : "0153259E",
+					"Identification" : "LKKOZY",
+					"Name" : "KOZMICE",
+					"Elevation_FT" : "885",
+					"Elevation_M" : "270",
+					"Geo_lat" : "495448.00N",
+					"Geo_long" : "0180951.00E",
 					"Runway_detail" : [
-						{
-							"Runway" : "07/25",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "13/31",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKPO",
-					"Name" : "PREROV",
-					"Elevation_FT" : "676",
-					"Elevation_M" : "206",
-					"Geo_lat" : "492533.35N",
-					"Geo_long" : "0172417.40E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
-							"Surface" : "CONC"
-						},
-						{
-							"Runway" : "05/23",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKPR",
-					"Name" : "PRAHA/RUZYNE",
-					"Elevation_FT" : "1234",
-					"Elevation_M" : "376",
-					"Geo_lat" : "500603N",
-					"Geo_long" : "0141536E",
-					"Runway_detail" : [
-						{
-							"Runway" : "06/24",
-							"Surface" : "CONC"
-						},
-						{
-							"Runway" : "12/30",
-							"Surface" : "CONC"
-						}
-					]
-				},
-				{
-					"Identification" : "LKPS",
-					"Name" : "PLASY",
-					"Elevation_FT" : "1434",
-					"Elevation_M" : "437",
-					"Geo_lat" : "495513N",
-					"Geo_long" : "0132237E",
-					"Runway_detail" : [
-						{
-							"Runway" : "03/21",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKRA",
-					"Name" : "RANA",
-					"Elevation_FT" : "883",
-					"Elevation_M" : "269",
-					"Geo_lat" : "502414N",
-					"Geo_long" : "0134507E",
-					"Runway_detail" : [
-						{
-							"Runway" : "05/23",
-							"Surface" : "GRASS"
-						},
 						{
 							"Runway" : "11/29",
 							"Surface" : "GRASS"
@@ -1012,62 +438,86 @@
 					]
 				},
 				{
-					"Identification" : "LKRK",
-					"Name" : "RAKOVNIK",
-					"Elevation_FT" : "1273",
-					"Elevation_M" : "388",
-					"Geo_lat" : "500539N",
-					"Geo_long" : "0134120E",
-					"Runway_detail" : [
-						{
-							"Runway" : "09R/27L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "09L/27R",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKRO",
-					"Name" : "ROUDNICE",
-					"Elevation_FT" : "728",
-					"Elevation_M" : "222",
-					"Geo_lat" : "502438N",
-					"Geo_long" : "0141334E",
-					"Runway_detail" : [
-						{
-							"Runway" : "13R/31L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "13L/31R",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKRY",
-					"Name" : "ROKYCANY",
-					"Elevation_FT" : "1329",
-					"Elevation_M" : "405",
-					"Geo_lat" : "494507N",
-					"Geo_long" : "0133523E",
+					"Identification" : "LKKRAM",
+					"Name" : "KRAMOLIN",
+					"Elevation_FT" : "1650",
+					"Elevation_M" : "503",
+					"Geo_lat" : "485454.00N",
+					"Geo_long" : "0144335.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "09/27",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKKRIZ",
+					"Name" : "KRIZENEC",
+					"Elevation_FT" : "2076",
+					"Elevation_M" : "633",
+					"Geo_lat" : "495214.60N",
+					"Geo_long" : "0124626.20E",
+					"Runway_detail" : [
+						{
+							"Runway" : "08/26",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKKRPY",
+					"Name" : "KRPY",
+					"Elevation_FT" : "803",
+					"Elevation_M" : "245",
+					"Geo_lat" : "501939.37N",
+					"Geo_long" : "0143948.85E",
+					"Runway_detail" : [
+						{
+							"Runway" : "08/26",
+							"Surface" : "GRASS"
+						},
+						{
+							"Runway" : "10/28",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKSA",
-					"Name" : "STANKOV",
-					"Elevation_FT" : "1404",
-					"Elevation_M" : "428",
-					"Geo_lat" : "493400N",
-					"Geo_long" : "0130255E",
+					"Identification" : "LKKUNE",
+					"Name" : "KUNETICE",
+					"Elevation_FT" : "718",
+					"Elevation_M" : "219",
+					"Geo_lat" : "500405.66N",
+					"Geo_long" : "0154844.22E",
+					"Runway_detail" : [
+						{
+							"Runway" : "05/23",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKLETO",
+					"Name" : "LETOVICE",
+					"Elevation_FT" : "1246",
+					"Elevation_M" : "380",
+					"Geo_lat" : "493248.00N",
+					"Geo_long" : "0163555.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "16/34",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKLIBA",
+					"Name" : "LIBAN",
+					"Elevation_FT" : "738",
+					"Elevation_M" : "225",
+					"Geo_lat" : "502214.00N",
+					"Geo_long" : "0151204.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "07/25",
@@ -1076,12 +526,12 @@
 					]
 				},
 				{
-					"Identification" : "LKSB",
-					"Name" : "STICHOVICE",
-					"Elevation_FT" : "837",
-					"Elevation_M" : "255",
-					"Geo_lat" : "492910N",
-					"Geo_long" : "0170320E",
+					"Identification" : "LKLOMN",
+					"Name" : "LOMNICE NAD POPELKOU",
+					"Elevation_FT" : "1673",
+					"Elevation_M" : "510",
+					"Geo_lat" : "503224.00N",
+					"Geo_long" : "0152317.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "14/32",
@@ -1090,137 +540,71 @@
 					]
 				},
 				{
-					"Identification" : "LKSK",
-					"Name" : "SKUTEC",
-					"Elevation_FT" : "1601",
-					"Elevation_M" : "488",
-					"Geo_lat" : "494940N",
-					"Geo_long" : "0160021E",
+					"Identification" : "LKLOUC",
+					"Name" : "LOUCEN",
+					"Elevation_FT" : "636",
+					"Elevation_M" : "194",
+					"Geo_lat" : "501645.00N",
+					"Geo_long" : "0150340.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "13/31",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "03/21",
+							"Runway" : "17/35",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKSN",
-					"Name" : "SLANY",
-					"Elevation_FT" : "1079",
-					"Elevation_M" : "329",
-					"Geo_lat" : "501300N",
-					"Geo_long" : "0140519E",
+					"Identification" : "LKMILO",
+					"Name" : "MILOVICE",
+					"Elevation_FT" : "652",
+					"Elevation_M" : "199",
+					"Geo_lat" : "501416.00N",
+					"Geo_long" : "0145437.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "07L/25R",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "07R/25L",
+							"Runway" : "09/27",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKSO",
-					"Name" : "SOBESLAV",
-					"Elevation_FT" : "1335",
-					"Elevation_M" : "407",
-					"Geo_lat" : "491448N",
-					"Geo_long" : "0144249E",
-					"Runway_detail" : [
-						{
-							"Runway" : "18/36",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "08/26",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKSR",
-					"Name" : "STRUNKOVICE",
-					"Elevation_FT" : "1565",
-					"Elevation_M" : "477",
-					"Geo_lat" : "490457N",
-					"Geo_long" : "0140433E",
-					"Runway_detail" : [
-						{
-							"Runway" : "15/33",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKST",
-					"Name" : "STRAKONICE",
-					"Elevation_FT" : "1378",
-					"Elevation_M" : "420",
-					"Geo_lat" : "491506N",
-					"Geo_long" : "0135334E",
-					"Runway_detail" : [
-						{
-							"Runway" : "13/31",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "03/21",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKSU",
-					"Name" : "SUMPERK",
-					"Elevation_FT" : "1099",
-					"Elevation_M" : "335",
-					"Geo_lat" : "495738N",
-					"Geo_long" : "0170104E",
-					"Runway_detail" : [
-						{
-							"Runway" : "18/36",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "06/24",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKSZ",
-					"Name" : "SAZENA",
-					"Elevation_FT" : "765",
-					"Elevation_M" : "233",
-					"Geo_lat" : "501929N",
-					"Geo_long" : "0141532E",
-					"Runway_detail" : [
-						{
-							"Runway" : "15R/33L",
-							"Surface" : "GRASS"
-						},
-						{
-							"Runway" : "15L/33R",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKTA",
-					"Name" : "TABOR",
-					"Elevation_FT" : "1440",
-					"Elevation_M" : "439",
-					"Geo_lat" : "492328N",
-					"Geo_long" : "0144230E",
+					"Identification" : "LKMIRA",
+					"Name" : "MIROSLAV AIRCON",
+					"Elevation_FT" : "715",
+					"Elevation_M" : "218",
+					"Geo_lat" : "485554.00N",
+					"Geo_long" : "0162023.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "12/30",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKMIRO",
+					"Name" : "MIROSLAV",
+					"Elevation_FT" : "780",
+					"Elevation_M" : "238",
+					"Geo_lat" : "485553.00N",
+					"Geo_long" : "0161755.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "18/36",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKMIST",
+					"Name" : "MISTEK",
+					"Elevation_FT" : "1066",
+					"Elevation_M" : "325",
+					"Geo_lat" : "493910.00N",
+					"Geo_long" : "0182045.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "05/23",
 							"Surface" : "GRASS"
 						},
 						{
@@ -1230,17 +614,13 @@
 					]
 				},
 				{
-					"Identification" : "LKTB",
-					"Name" : "BRNO/TURANY",
-					"Elevation_FT" : "778",
-					"Elevation_M" : "237",
-					"Geo_lat" : "490905N",
-					"Geo_long" : "0164138E",
+					"Identification" : "LKMLAD",
+					"Name" : "MLADA",
+					"Elevation_FT" : "738",
+					"Elevation_M" : "225",
+					"Geo_lat" : "501437.00N",
+					"Geo_long" : "0145120.00E",
 					"Runway_detail" : [
-						{
-							"Runway" : "09/27",
-							"Surface" : "CONC"
-						},
 						{
 							"Runway" : "08/26",
 							"Surface" : "GRASS"
@@ -1248,86 +628,156 @@
 					]
 				},
 				{
-					"Identification" : "LKTC",
-					"Name" : "TOCNA",
-					"Elevation_FT" : "1027",
-					"Elevation_M" : "313",
-					"Geo_lat" : "495907N",
-					"Geo_long" : "0142532E",
+					"Identification" : "LKNACH",
+					"Name" : "NACHOD",
+					"Elevation_FT" : "1443",
+					"Elevation_M" : "440",
+					"Geo_lat" : "502447.00N",
+					"Geo_long" : "0160718.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "09/27",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKTD",
-					"Name" : "TACHOV",
-					"Elevation_FT" : "1639",
-					"Elevation_M" : "500",
-					"Geo_lat" : "494752N",
-					"Geo_long" : "0124225E",
-					"Runway_detail" : [
-						{
-							"Runway" : "09/27",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKTO",
-					"Name" : "TOUZIM",
-					"Elevation_FT" : "2123",
-					"Elevation_M" : "647",
-					"Geo_lat" : "500511N",
-					"Geo_long" : "0125710E",
-					"Runway_detail" : [
-						{
-							"Runway" : "08L/26R",
 							"Surface" : "GRASS"
 						},
 						{
-							"Runway" : "08R/26L",
+							"Runway" : "13/31",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKUL",
-					"Name" : "USTI NAD LABEM",
-					"Elevation_FT" : "787",
-					"Elevation_M" : "240",
-					"Geo_lat" : "504159N",
-					"Geo_long" : "0135811E",
+					"Identification" : "LKNAPA",
+					"Name" : "NAPAJEDLA",
+					"Elevation_FT" : "1761",
+					"Elevation_M" : "537",
+					"Geo_lat" : "491156N",
+					"Geo_long" : "0133600E",
 					"Runway_detail" : [
 						{
-							"Runway" : "05/23",
+							"Runway" : "06/24",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKUO",
-					"Name" : "USTI NAD ORLICI",
-					"Elevation_FT" : "1342",
-					"Elevation_M" : "409",
-					"Geo_lat" : "495843N",
-					"Geo_long" : "0162535E",
+					"Identification" : "LKNUCI",
+					"Name" : "NUCICE",
+					"Elevation_FT" : "1374",
+					"Elevation_M" : "419",
+					"Geo_lat" : "495704.00N",
+					"Geo_long" : "0145212.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "14/32",
+							"Runway" : "08/26",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKVL",
-					"Name" : "VLASIM",
-					"Elevation_FT" : "1421",
-					"Elevation_M" : "433",
-					"Geo_lat" : "494344N",
-					"Geo_long" : "0145244E",
+					"Identification" : "LKNVCE",
+					"Name" : "NOVA VCELNICE",
+					"Elevation_FT" : "1771",
+					"Elevation_M" : "540",
+					"Geo_lat" : "491602.00N",
+					"Geo_long" : "0150440.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "18/36",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKNYMB",
+					"Name" : "NYMBURK",
+					"Elevation_FT" : "610",
+					"Elevation_M" : "186",
+					"Geo_lat" : "501009.00N",
+					"Geo_long" : "0150308.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "09/27",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKOPAV",
+					"Name" : "OPAVA",
+					"Elevation_FT" : "872",
+					"Elevation_M" : "266",
+					"Geo_lat" : "495626.00N",
+					"Geo_long" : "0175910.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "10/28",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKOSIC",
+					"Name" : "OSICINY",
+					"Elevation_FT" : "1280",
+					"Elevation_M" : "390",
+					"Geo_lat" : "500057N",
+					"Geo_long" : "0144620E",
+					"Runway_detail" : [
+						{
+							"Runway" : "18/36",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKOSTR",
+					"Name" : "OSTROV",
+					"Elevation_FT" : "1676",
+					"Elevation_M" : "511",
+					"Geo_lat" : "502012.00N",
+					"Geo_long" : "0125811.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "07/25",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKPAVL",
+					"Name" : "VELKE PAVLOVICE",
+					"Elevation_FT" : "564",
+					"Elevation_M" : "172",
+					"Geo_lat" : "485250.10N",
+					"Geo_long" : "0164929.50E",
+					"Runway_detail" : [
+						{
+							"Runway" : "16/34",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKPISK",
+					"Name" : "PISEK-KRASOVICE",
+					"Elevation_FT" : "1351",
+					"Elevation_M" : "412",
+					"Geo_lat" : "492022.00N",
+					"Geo_long" : "0140650.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "16/34",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKPOCA",
+					"Name" : "HORNI POCAPLY",
+					"Elevation_FT" : "524",
+					"Elevation_M" : "160",
+					"Geo_lat" : "502505.00N",
+					"Geo_long" : "0142303.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "13/31",
@@ -1336,21 +786,73 @@
 					]
 				},
 				{
-					"Identification" : "LKVM",
-					"Name" : "VYSOKE MYTO",
-					"Elevation_FT" : "988",
-					"Elevation_M" : "301",
-					"Geo_lat" : "495537N",
-					"Geo_long" : "0161109E",
+					"Identification" : "LKPOLE",
+					"Name" : "POLEPY",
+					"Elevation_FT" : "696",
+					"Elevation_M" : "212",
+					"Geo_lat" : "503114.00N",
+					"Geo_long" : "0141620.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "12L/30R",
-							"Surface" : "ASPH"
-						},
-						{
-							"Runway" : "12R/30L",
+							"Runway" : "01/19",
 							"Surface" : "GRASS"
 						},
+						{
+							"Runway" : "06/24",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKPRIM",
+					"Name" : "HORNI PRIM",
+					"Elevation_FT" : "885",
+					"Elevation_M" : "270",
+					"Geo_lat" : "501345.56N",
+					"Geo_long" : "0154212.77E",
+					"Runway_detail" : [
+						{
+							"Runway" : "09/27",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKRAMS",
+					"Name" : "RAMS",
+					"Elevation_FT" : "984",
+					"Elevation_M" : "300",
+					"Geo_lat" : "503830.00N",
+					"Geo_long" : "0143229.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "13/31",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKSLUS",
+					"Name" : "SLUSOVICE",
+					"Elevation_FT" : "1165",
+					"Elevation_M" : "355",
+					"Geo_lat" : "491532.32N",
+					"Geo_long" : "0174847.88E",
+					"Runway_detail" : [
+						{
+							"Runway" : "04/22",
+							"Surface" : "ASPH"
+						}
+					]
+				},
+				{
+					"Identification" : "LKSTET",
+					"Name" : "STETI",
+					"Elevation_FT" : "787",
+					"Elevation_M" : "240",
+					"Geo_lat" : "502754.00N",
+					"Geo_long" : "0142422.00E",
+					"Runway_detail" : [
 						{
 							"Runway" : "14/32",
 							"Surface" : "GRASS"
@@ -1358,95 +860,31 @@
 					]
 				},
 				{
-					"Identification" : "LKVO",
-					"Name" : "PRAHA/VODOCHODY",
-					"Elevation_FT" : "919",
-					"Elevation_M" : "280",
-					"Geo_lat" : "501300N",
-					"Geo_long" : "0142344E",
+					"Identification" : "LKSTIP",
+					"Name" : "ZLIN - STIPA",
+					"Elevation_FT" : "1102",
+					"Elevation_M" : "336",
+					"Geo_lat" : "491622.00N",
+					"Geo_long" : "0174447.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "10/28",
+							"Runway" : "09/27",
 							"Surface" : "ASPH"
-						},
-						{
-							"Runway" : "11/29",
-							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKVP",
-					"Name" : "VELKE PORICI",
-					"Elevation_FT" : "1326",
-					"Elevation_M" : "404",
-					"Geo_lat" : "502804N",
-					"Geo_long" : "0161220E",
+					"Identification" : "LKSTRZ",
+					"Name" : "STRAZNICE",
+					"Elevation_FT" : "613",
+					"Elevation_M" : "187",
+					"Geo_lat" : "485316.00N",
+					"Geo_long" : "0171740.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "09L/27R",
+							"Runway" : "05/23",
 							"Surface" : "GRASS"
 						},
-						{
-							"Runway" : "09R/27L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKVR",
-					"Name" : "VRCHLABI",
-					"Elevation_FT" : "1611",
-					"Elevation_M" : "491",
-					"Geo_lat" : "503727N",
-					"Geo_long" : "0153847E",
-					"Runway_detail" : [
-						{
-							"Runway" : "11/29",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKVY",
-					"Name" : "VYSKOV",
-					"Elevation_FT" : "915",
-					"Elevation_M" : "279",
-					"Geo_lat" : "491801N",
-					"Geo_long" : "0170131E",
-					"Runway_detail" : [
-						{
-							"Runway" : "02/20",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKZA",
-					"Name" : "ZABREH",
-					"Elevation_FT" : "794",
-					"Elevation_M" : "242",
-					"Geo_lat" : "495542N",
-					"Geo_long" : "0180442E",
-					"Runway_detail" : [
-						{
-							"Runway" : "10L/28R",
-							"Surface" : "ASPH"
-						},
-						{
-							"Runway" : "10R/28L",
-							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKZB",
-					"Name" : "ZBRASLAVICE",
-					"Elevation_FT" : "1618",
-					"Elevation_M" : "493",
-					"Geo_lat" : "494851N",
-					"Geo_long" : "0151206E",
-					"Runway_detail" : [
 						{
 							"Runway" : "15/33",
 							"Surface" : "GRASS"
@@ -1454,61 +892,75 @@
 					]
 				},
 				{
-					"Identification" : "LKZD",
-					"Name" : "ZATEC/MACERKA",
-					"Elevation_FT" : "883",
-					"Elevation_M" : "269",
-					"Geo_lat" : "501903N",
-					"Geo_long" : "0133046E",
+					"Identification" : "LKTEPL",
+					"Name" : "TEPLICE",
+					"Elevation_FT" : "1148",
+					"Elevation_M" : "350",
+					"Geo_lat" : "503715.00N",
+					"Geo_long" : "0134838.00E",
 					"Runway_detail" : [
 						{
 							"Runway" : "11/29",
 							"Surface" : "GRASS"
-						}
-					]
-				},
-				{
-					"Identification" : "LKZL",
-					"Name" : "ZLIN",
-					"Elevation_FT" : "604",
-					"Elevation_M" : "184",
-					"Geo_lat" : "491154N",
-					"Geo_long" : "0173104E",
-					"Runway_detail" : [
-						{
-							"Runway" : "17L/35R",
-							"Surface" : "CONC+ASPH"
 						},
 						{
-							"Runway" : "17R/35L",
+							"Runway" : "18/36",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKZM",
-					"Name" : "ZAMBERK",
-					"Elevation_FT" : "1408",
-					"Elevation_M" : "429",
-					"Geo_lat" : "500502N",
-					"Geo_long" : "0162638E",
+					"Identification" : "LKTERE",
+					"Name" : "TEREZIN",
+					"Elevation_FT" : "428",
+					"Elevation_M" : "147",
+					"Geo_lat" : "503110.41N",
+					"Geo_long" : "0140921.16E",
 					"Runway_detail" : [
 						{
-							"Runway" : "13/31",
+							"Runway" : "01/19",
 							"Surface" : "GRASS"
 						}
 					]
 				},
 				{
-					"Identification" : "LKZN",
-					"Name" : "ZNOJMO",
-					"Elevation_FT" : "827",
-					"Elevation_M" : "252",
-					"Geo_lat" : "484904N",
-					"Geo_long" : "0160357E",
+					"Identification" : "LKTRBH",
+					"Name" : "TREBIHOST",
+					"Elevation_FT" : "1624",
+					"Elevation_M" : "495",
+					"Geo_lat" : "502607.00N",
+					"Geo_long" : "0154135.00E",
 					"Runway_detail" : [
 						{
-							"Runway" : "08/26",
+							"Runway" : "03/21",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTRUT",
+					"Name" : "TRUTNOV",
+					"Elevation_FT" : "1489",
+					"Elevation_M" : "454",
+					"Geo_lat" : "503403.00N",
+					"Geo_long" : "0155155.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "17/35",
+							"Surface" : "GRASS"
+						}
+					]
+				},
+				{
+					"Identification" : "LKVRAT",
+					"Name" : "VRATKOV",
+					"Elevation_FT" : "1033",
+					"Elevation_M" : "315",
+					"Geo_lat" : "500223.00N",
+					"Geo_long" : "0144919.00E",
+					"Runway_detail" : [
+						{
+							"Runway" : "11/29",
 							"Surface" : "GRASS"
 						}
 					]

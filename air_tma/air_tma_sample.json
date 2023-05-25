@@ -1,0 +1,211 @@
+[
+	{
+		"Type" : "TMA_koncova_rizena_oblast",
+		"Creation_date" : "2021-12-21T101518",
+		"Valid_from" : "2021-12-30T000000",
+		"Data" : {
+		"Object" : [
+		{
+			"Identification" : "LKCV1",
+			"Name" : "MTMA I CASLAV",
+			"Lower_limit" : "2000 ft AMSL",
+			"Upper_limit" : "FL 95",
+			"Polygon_coord" : [
+				{
+					"Geo_lat" : "501107.99N", 
+					"Geo_long" : "0145839.41E"
+				},
+				{
+					"Geo_lat" : "501108.54N",
+					"Geo_long" : "0150324.04E"
+				},
+				{
+					"Geo_lat" : "501108.78N", 
+					"Geo_long" : "0152255.61E"
+				},
+				{
+					"Geo_lat" : "500906.81N", 
+					"Geo_long" : "0152252.12E"
+				},
+				{
+					"Geo_lat" : "500322.78N", 
+					"Geo_long" : "0152425.64E"
+				},
+				{
+					"Geo_lat" : "495547.79N", 
+					"Geo_long" : "0153511.65E"
+				},
+				{
+					"Geo_lat" : "495017.74N", 
+					"Geo_long" : "0153723.64E"
+				},
+				{
+					"Geo_lat" : "494638.74N", 
+					"Geo_long" : "0153113.60E"
+				},
+				{
+					"Geo_lat" : "494931.78N", 
+					"Geo_long" : "0152127.70E"
+				},
+				{
+					"Geo_lat" : "495354.69N", 
+					"Geo_long" : "0151511.69E"
+				},
+				{
+					"Geo_lat" : "495605.78N", 
+					"Geo_long" : "151204.68E"
+				},
+				{
+					"Geo_lat" : "495733.00N", 
+					"Geo_long" : "0151156.98E"
+				},
+				{
+					"Geo_lat" : "500016.76N", 
+					"Geo_long" : "0151141.67E"
+				},
+				{
+					"Geo_lat" : "495711.60N", 
+					"Geo_long" : "0145716.19E"
+				},
+				{
+					"Geo_lat_cen" : "500544.80N",
+					"Geo_long_cen" : "0141555.81E",
+					"Radius_unit" : "NM",
+					"Radius_value" : "28"
+				}
+				]
+			        },
+			        {
+			"Identification" : "LKCV2",
+			"Name" : "MTMA II CASLAV",
+			"Lower_limit" : "2500 ft AMSL",
+			"Upper_limit" : "FL 95",
+			"Polygon_coord" : [
+				{
+					"Geo_lat" : "500016.76N",
+					"Geo_long" : "0151141.67E"
+				},
+				{
+					"Geo_lat" : "495733.00N",
+					"Geo_long" : "0151156.98E"
+				},
+				{
+					"Geo_lat" : "495605.78N",
+					"Geo_long" : "0151204.68E"
+				},
+				{
+					"Geo_lat" : "495354.69N",
+					"Geo_long" : "0151511.69E"
+				},
+				{
+					"Geo_lat" : "494931.78N",
+					"Geo_long" : "0152127.70E"
+				},
+				{
+					"Geo_lat" : "494638.74N",
+					"Geo_long" : "0153113.60E"
+				},
+				{
+					"Geo_lat" : "494421.39N",
+					"Geo_long" : "0152722.28E"
+				},
+				{
+					"Geo_lat" : "495711.60N",
+					"Geo_long" : "0145716.19E"
+				}
+				]
+	},
+	{
+			"Identification" : "LKCV3",
+			"Name" : "MTMA III CASLAV",
+			"Lower_limit" : "3000 ft AMSL",
+			"Upper_limit" : "FL 95",
+			"Polygon_coord" : [
+				{
+					"Geo_lat" : "494421.39N",
+					"Geo_long" : "0152722.28E"
+				},
+				{
+					"Geo_lat" : "494638.74N",
+					"Geo_long" : "0153113.60E"
+				},
+				{
+					"Geo_lat" : "495017.74N",
+					"Geo_long" : "0153723.64E"
+				},
+				{
+					"Geo_lat" : "495547.79N",
+					"Geo_long" : "0153511.65E"
+				},
+				{
+					"Geo_lat" : "495038.81N",
+					"Geo_long" : "0154229.73E"
+				},
+				{
+					"Geo_lat" : "494609.37N",
+					"Geo_long" : "0155058.58E"
+				},
+				{
+					"Geo_lat" : "494050.85N",
+					"Geo_long" : "0154434.99E"
+				},
+				{
+					"Geo_lat" : "493632.85N",
+					"Geo_long" : "0153925.61E"
+				},
+				{
+					"Geo_lat" : "495005.68N",
+					"Geo_long" : "0150754.92E"
+				},
+				{
+					"Geo_lat" : "495503.59N",
+					"Geo_long" : "0145603.54E"
+				},
+				{
+					"Geo_lat_cen" : "500544.80N",
+					"Geo_long_cen" : "0141555.81E",
+					"Radius_unit" : "NM",
+					"Radius_value" : "28"
+				},
+				{
+					"Geo_lat" : "495711.60N",
+					"Geo_long" : "0145716.19E"
+				}
+				]
+				},
+	    {
+			"Identification" : "LKVO2",
+			"Name" : "TMA II VODOCHODY",
+			"Lower_limit" : "2000 ft AMSL",
+			"Upper_limit" : "3500 ft AMSL",
+			"Polygon_coord" : [
+				{
+					"Geo_lat" : "501404.96N",
+					"Geo_long" : "0143408.27E"
+				},
+				{
+					"Geo_lat" : "501313.39N",
+					"Geo_long" : "0144155.71E"
+				},
+				{
+					"Geo_lat" : "501133.35N",
+					"Geo_long" : "0144117.44E"
+				},
+				{
+					"Geo_lat" : "500916.15N",
+					"Geo_long" : "0143343.10E"
+				},
+				{
+					"Geo_lat" : "501013.99N",
+					"Geo_long" : "0143300.66E"
+				},
+				{
+					"Geo_lat" : "501032.03N",
+					"Geo_long" : "0143247.42E"
+				}
+			]
+		}
+]
+}
+}
+]

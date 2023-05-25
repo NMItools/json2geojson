@@ -38,11 +38,17 @@ def convert_json_to_geojson(json_data):
                     "Identification": obj["Identification"],
                     "Name": obj["Name"],
                     "Elevation_FT": obj["Elevation_FT"],
-                    "Elevation_M": obj["Elevation_M"],
-                    "Runway_detail": obj["Runway_detail"]
+                    "Elevation_M": obj["Elevation_M"]
                 }
+                for detail in obj['Runway_detail']:
+                    properties2 = {
+                        "runway": detail['Runway'],
+                        "surface": detail['Surface']
+                    }
+                properties.update(properties2)
                 latitude = latitude_dms_to_decimal(obj["Geo_lat"])
                 longitude = longitude_dms_to_decimal(obj["Geo_long"])
+                print(str(latitude) + " - " + str(longitude))
                 geometry = {
                     "type": "Point",
                     "coordinates": [longitude, latitude]
