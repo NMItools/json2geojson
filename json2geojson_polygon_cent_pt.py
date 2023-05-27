@@ -32,28 +32,32 @@ def longitude_dms_to_decimal(coordinate):
 def convert_json_to_geojson(json_data):
 
     features = []
+    properties2 = {}
 
     for item in json_data:
         if "Data" in item:
             for obj in item["Data"]["Object"]:
+                lon = 0
+                lat = 0
                 properties = {
                     "Identification": obj["Identification"],
                     "Name": obj["Name"],
-                    "Elevation_FT": obj["Elevation_FT"],
-                    "Elevation_M": obj["Elevation_M"]
+                    "Lower_limit": obj["Lower_limit"],
+                    "Upper_limit": obj["Upper_limit"]
                 }
-                for detail in obj['Runway_detail']:
-                    properties2 = {
-                        "runway": detail['Runway'],
-                        "surface": detail['Surface']
-                    }
-                properties.update(properties2)
-                latitude = latitude_dms_to_decimal(obj["Geo_lat"])
-                longitude = longitude_dms_to_decimal(obj["Geo_long"])
-                print(str(latitude) + " - " + str(longitude))
+                for detail in obj['Polygon_coord']:
+                    if "Geo_lat_cen" in detail and "Geo_long_cen" in detail:
+                        properties2 = {
+                            "Radius_unit": detail['Radius_unit'],
+                            "Radius_value": detail['Radius_value']
+                        }
+                        properties.update(properties2)
+                        lat = latitude_dms_to_decimal(detail["Geo_lat_cen"])
+                        lon = longitude_dms_to_decimal(detail["Geo_long_cen"])
+                        print(str(lat) + " - " + str(lon))
                 geometry = {
                     "type": "Point",
-                    "coordinates": [longitude, latitude]
+                    "coordinates": [lon, lat]
                 }
                 feature = {
                     "type": "Feature",
@@ -61,6 +65,8 @@ def convert_json_to_geojson(json_data):
                     "properties": properties
                 }
                 features.append(feature)
+                lon = 0
+                lat = 0
 
     geojson_data = {
         "type": "FeatureCollection",

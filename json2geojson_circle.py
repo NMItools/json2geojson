@@ -32,6 +32,9 @@ def longitude_dms_to_decimal(coordinate):
 def convert_json_to_geojson(json_data):
 
     features = []
+    properties2 = {}
+    geo_lat_cen = "000000.00N"
+    geo_long_cen = "0000000.00E"
 
     for item in json_data:
         if "Data" in item:
@@ -39,17 +42,21 @@ def convert_json_to_geojson(json_data):
                 properties = {
                     "Identification": obj["Identification"],
                     "Name": obj["Name"],
-                    "Elevation_FT": obj["Elevation_FT"],
-                    "Elevation_M": obj["Elevation_M"]
+                    "Lower_limit": obj["Lower_limit"],
+                    "Upper_limit": obj["Upper_limit"]
                 }
-                for detail in obj['Runway_detail']:
+                for detail in obj['Circle_coord']:
                     properties2 = {
-                        "runway": detail['Runway'],
-                        "surface": detail['Surface']
+                        "Radius_unit": detail['Radius_unit'],
+                        "Radius_value": detail['Radius_value']
                     }
+                    geo_lat_cen = detail['Geo_lat_cen']
+                    geo_long_cen = detail['Geo_long_cen']
+                    print(geo_lat_cen)
+                    print(geo_long_cen)
                 properties.update(properties2)
-                latitude = latitude_dms_to_decimal(obj["Geo_lat"])
-                longitude = longitude_dms_to_decimal(obj["Geo_long"])
+                latitude = latitude_dms_to_decimal(geo_lat_cen)
+                longitude = longitude_dms_to_decimal(geo_long_cen)
                 print(str(latitude) + " - " + str(longitude))
                 geometry = {
                     "type": "Point",
@@ -61,6 +68,8 @@ def convert_json_to_geojson(json_data):
                     "properties": properties
                 }
                 features.append(feature)
+                geo_lat_cen = "000000.00N"
+                geo_long_cen = "0000000.00E"
 
     geojson_data = {
         "type": "FeatureCollection",
